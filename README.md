@@ -30,4 +30,10 @@
 
 
 
+#flag 
+- picoCTF{[REDACTED]}
+
+
+
+
 ---
